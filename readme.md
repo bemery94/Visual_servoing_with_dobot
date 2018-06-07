@@ -33,3 +33,7 @@ of the robot needs to be known. This can be found using the eye-on-hand calibrat
 
 The visual servoing in its current state tracks 4 circular objects which are arranged in a 
 square pattern.
+
+# Authors
+- Brendan Emery
+- Ahmad Kamal
